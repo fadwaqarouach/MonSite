@@ -5,19 +5,19 @@ import { CalendarSync, LetterText, Paintbrush } from "lucide-react";
 const aboutSections = [
     {
         id: 1,
-        title: "Développeur Frontend",
-        description: "Je suis un développeur frontend avec une bonne expérience.",
+        title: "Développeuse Frontend",
+        description: "Je suis une développeuse frontend avec une bonne expérience.",
         icon: <LetterText className="text-warning scale-150" />,
     },
     {
         id: 2,
-        title: "Développeur Backend",
+        title: "Développeuse Backend",
         description: "Je maîtrise les bases du développement backend pour créer des APIs robustes.",
         icon: <CalendarSync className="text-warning scale-150" />,
     },
     {
         id: 3,
-        title: "Passionné par l'UI/UX",
+        title: "Passionnée par l'UI/UX",
         description: "Créer des interfaces utilisateur attrayantes et fonctionnelles est ma priorité.",
         icon: <Paintbrush className="text-warning scale-150" />,
     },
